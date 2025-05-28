@@ -4,9 +4,9 @@ I'm a Senior Full-Stack Developer and CTO based in Tehran, with a passion for bu
 
 ## 🔭 Current Roles
 
-- **Chief Technical Officer at Nivafy**: Leading platform development for a startup recognized by the Microsoft for Startups Founders Hub, integrating advanced AI and blockchain technologies.
+- **Senior Full-Stack Engineer at WikiLix**: Leading platform development for a startup recognized by the Microsoft for Startups Founders Hub, integrating advanced AI and blockchain technologies.
 
-- **Senior Full-Stack Developer at Chain of Legends**: Developed a cutting-edge, play-to-earn NFT gaming platform with robust tokenomics and a deflationary system.
+- **Game Developer at Chain of Legends**: Developed a cutting-edge, play-to-earn NFT gaming platform with robust tokenomics and a deflationary system.
 
 ## 🌐 Online Presence
 
